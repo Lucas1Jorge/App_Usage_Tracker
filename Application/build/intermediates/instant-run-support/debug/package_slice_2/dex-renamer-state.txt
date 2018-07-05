@@ -1,0 +1,4 @@
+#Tue Jun 12 11:37:22 BRT 2018
+base.0=/home/lucasjorge/Desktop/AppMonitor/Application/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

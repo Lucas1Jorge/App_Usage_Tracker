@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/8b32de5dddbab0050e379a060c3400c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/c148c85934b6ccc93b4593185fcaf7d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8a06bb8a31fea8b30e432818f7060055/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/63f8483541a1be5305a33938d515f5a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/cc2f4e5bc5dece09562f40f336338790/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7429c85524b8cf9e9c4a063523b4d6fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/141c5df83a953fdcf8b1e034d0105432/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f6584db7a5f1416a40023c284f03fba4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b9af0c25eb8ece230d99ba0fd70829ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a0d633e667877b3a83c7f12e9947ac6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/11ba064e22fe653650a5d5c4373cc4e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8e2e9838b237c876eeeb838148e53ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9ace9eca5627e019acf291671103709b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ddd364cfbb05e8956ecce2aafd5a9e21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7f056963728482712f83a6705c86305/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:18:5-53
+	android:versionName
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:22:22-75
+application
+ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:24:5-36:19
+	android:label
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:24:18-44
+	android:theme
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:27:9-53
+activity#com.example.android.appusagestatistics.AppUsageStatisticsActivity
+ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:29:9-35:20
+	android:label
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:30:19-51
+	android:name
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:29:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/8b32de5dddbab0050e379a060c3400c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/8b32de5dddbab0050e379a060c3400c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/c148c85934b6ccc93b4593185fcaf7d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/c148c85934b6ccc93b4593185fcaf7d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8a06bb8a31fea8b30e432818f7060055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/8a06bb8a31fea8b30e432818f7060055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/63f8483541a1be5305a33938d515f5a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/63f8483541a1be5305a33938d515f5a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/cc2f4e5bc5dece09562f40f336338790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/cc2f4e5bc5dece09562f40f336338790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7429c85524b8cf9e9c4a063523b4d6fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7429c85524b8cf9e9c4a063523b4d6fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/141c5df83a953fdcf8b1e034d0105432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/141c5df83a953fdcf8b1e034d0105432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f6584db7a5f1416a40023c284f03fba4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f6584db7a5f1416a40023c284f03fba4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b9af0c25eb8ece230d99ba0fd70829ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b9af0c25eb8ece230d99ba0fd70829ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a0d633e667877b3a83c7f12e9947ac6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a0d633e667877b3a83c7f12e9947ac6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/11ba064e22fe653650a5d5c4373cc4e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/11ba064e22fe653650a5d5c4373cc4e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8e2e9838b237c876eeeb838148e53ecb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8e2e9838b237c876eeeb838148e53ecb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9ace9eca5627e019acf291671103709b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9ace9eca5627e019acf291671103709b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ddd364cfbb05e8956ecce2aafd5a9e21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ddd364cfbb05e8956ecce2aafd5a9e21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7f056963728482712f83a6705c86305/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/lucasjorge/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7f056963728482712f83a6705c86305/AndroidManifest.xml:20:5-44
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+		ADDED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lucasjorge/AndroidStudioProjects/AppMonitor/Application/src/main/AndroidManifest.xml
