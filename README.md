@@ -6,8 +6,8 @@ App Usage Tracker - Android
 
 <br>
 
-<img src = "screenshots/screenshot-1.png" height="50">
-<img src = "screenshots/screenshot-2.png">
+<img src = "screenshots/screenshot-1.png" height="500">
+<img src = "screenshots/screenshot-2.png" height="500">
 
 <br>
 
